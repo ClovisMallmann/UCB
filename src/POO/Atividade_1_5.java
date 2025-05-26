@@ -14,11 +14,9 @@ public class Atividade_1_5 {
         Random random = new Random();
 
         int contagem = 0;
-        int numAleatorio = 0;
+        int numAleatorio;
         int numIntPosit = 0;
         int[] guarda_numero = new int[500];
-
-
 
         for (int i = 0 ; i < 500 ; i++) {
 

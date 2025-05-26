@@ -27,6 +27,5 @@ public class Atividade_1_3 {
         salario_bonus = salario_fixo + (total_vendas * comissao);
 
         System.out.printf("Salario final do vendedor %s é : R$ " + salario_bonus, vendedor);
-
-    };
-};
+    }
+}

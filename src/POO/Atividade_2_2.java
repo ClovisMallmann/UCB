@@ -14,7 +14,6 @@ import java.util.Scanner;
  * saida : mostrar temperatura convertida
  */
 
-
 public class Atividade_2_2 {
 
 
@@ -36,8 +35,7 @@ public class Atividade_2_2 {
     //All statements should stay out of "main".
 
     public static double fahrenheit(double celsius) {
-        double FAR = (9 * celsius + 160) / 5;
-        return FAR;
+        return (9 * celsius + 160) / 5;
     }
 
 }

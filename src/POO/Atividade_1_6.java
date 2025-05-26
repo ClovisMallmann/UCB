@@ -17,7 +17,6 @@ public class Atividade_1_6 {
         Scanner scanner = new Scanner(System.in);
         double media;
 
-
         do {
             System.out.print("===================================== \n");
 
@@ -44,7 +43,7 @@ public class Atividade_1_6 {
             }
 
 
-        }while(S == false);
+        }while(!S);
         System.out.print("===================================== \n");
 
     }

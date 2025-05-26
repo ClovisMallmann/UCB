@@ -30,12 +30,8 @@ public class Atividade_1_4 {
 
         }
 
-
         double media_alturas = soma_altura / ContaMais50;
-
         System.out.printf("A media das alturas das %d pessoas acima de 50 anos é %.2f", ContaMais50, media_alturas );
-
-
 
     }
 

@@ -34,7 +34,6 @@ public class Atividade_2_1 {
 
         //Chamando o metodo para calcular a divida
         calcularDivida(divida,taxa,parcelas);
-
     }
 
     //Toda declaração de metodo precisa estar fora do MAIN.
