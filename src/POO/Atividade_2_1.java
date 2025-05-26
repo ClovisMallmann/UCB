@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*Implemente um programa em Java que calcule o juro de uma dívida
  * que você contraiu no mês passado no crediário de uma loja. A
  * taxa de juros mensal e o valor da dívida serão fornecidos pelo
- * usuário. A dívida deve ser calculada por método criado por você
+ * usuário. A dívida deve ser calculada por metodo criado por você
  * chamado: **calcularDivida** e deve receber como parâmetro os
  * valores necessários para o cálculo e retornar a referida dívida.
  *
@@ -13,7 +13,7 @@ import java.util.Scanner;
  * 			taxa de juros mensal
  * 			qtde de parcelas
  *
- * processamento: juro da divida por meio de um método
+ * processamento: juro da divida por meio de um metodo
  * saída: quanto de juro será pago pelo devedor
  */
 
@@ -32,12 +32,12 @@ public class Atividade_2_1 {
         System.out.print("Quantas parcelas? ");
         int parcelas = in.nextInt();
 
-        //Chamando o método para calcular a divida
+        //Chamando o metodo para calcular a divida
         calcularDivida(divida,taxa,parcelas);
 
     }
 
-    //Toda declaração de método precisa estar fora do MAIN.
+    //Toda declaração de metodo precisa estar fora do MAIN.
 
     public static void calcularDivida(double divida, double taxa, int parcelas) {
 

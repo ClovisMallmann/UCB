@@ -5,8 +5,8 @@ import java.util.Scanner;
  * em graus Fahrenheit. A fórmula de conversão é:
  * FAR = (9 * CEL + 160) / 5, sendo FAR a temperatura em
  * Fahrenheit e CEL em Celsius. Esta conversão deve ser feita
- * por meio de um método com a seguinte assinatura: public static
- * double fahrenheit(double celsius). O método deve receber a
+ * por meio de um metodo com a seguinte assinatura: public static
+ * double fahrenheit(double celsius). O metodo deve receber a
  * temperatura em Celsius e retornar em Fahrenheit.
  *
  * Entrada:	temperatura em graus celsius

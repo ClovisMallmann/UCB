@@ -4,7 +4,7 @@ import java.util.Random;
 
 /* Objetivo:
  * Gerar idade e altura aleatória para 10 pessoas.
- * Calcular e informar a média das alturas das pessoas com mais de 50 anos.
+ * Calcular e informar a média das alturas das pessoas com mais de 50 anos...
  */
 
 public class Atividade_1_4 {

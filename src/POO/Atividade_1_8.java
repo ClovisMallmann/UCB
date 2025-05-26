@@ -45,7 +45,6 @@ public class Atividade_1_8 {
                 conta_impar++;
             }
         }
-
         //Mostra da média
         System.out.printf("\n A media dos numeros lidos é : %d ", numIntPosit / contagem);
 
@@ -60,21 +59,9 @@ public class Atividade_1_8 {
 
                 System.out.print(i + ",");
         }
-
     }
-
-
-
 }
 
 
-    /*
-    inicio         fim
-         0 1 2 3 4 5
 
-    fim + 1        fim +4
-          6 7 8 9 10
-
-
-     */
 

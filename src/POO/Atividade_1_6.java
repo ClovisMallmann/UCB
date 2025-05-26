@@ -3,7 +3,7 @@ package POO;
 import java.util.Scanner;
 
 
-/* Entrada: 2 notas de um estudante em double;
+/* Entrada de dados: 2 notas de um estudante em double;
  * processamento: verificar se o mesmo está aprovado ou não
  * saída: valores informados, media e resultado.
  */

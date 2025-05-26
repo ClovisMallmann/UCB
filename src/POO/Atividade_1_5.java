@@ -2,7 +2,7 @@ package POO;
 
 import java.util.Random;
 import java.util.Arrays; // Importa a classe Arrays
-/* Objetivo:
+/* Objetivo da tarefa:
  * Leia 500 numeros inteiros e positivos :
  * encontre o maior valor, o menor valor e a media dos numeros lidos.
  */
